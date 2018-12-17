@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">books</string>
+
+    <!--Bottom navigation tab text-->
+    <string name="tab_library">"Library"</string>
+    <string name="tab_store">"Store"</string>
+    <string name="tab_me">"Me"</string>
+
+</resources>

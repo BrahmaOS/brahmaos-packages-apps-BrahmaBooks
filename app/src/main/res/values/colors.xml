@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Bottom navigation tab color values-->
+    <color name="tabActive">#009688</color>
+    <color name="tabInActive">#666666</color>
+
+</resources>

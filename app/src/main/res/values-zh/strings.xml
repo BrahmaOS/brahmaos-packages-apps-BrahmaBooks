@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">书</string>
+
+    <!--Bottom navigation tab text-->
+    <string name="tab_library">"图书馆"</string>
+    <string name="tab_store">"商店"</string>
+    <string name="tab_me">"我的"</string>
+
+</resources>
